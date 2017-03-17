@@ -1,0 +1,4 @@
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\AuthenticationSettings\bin\Debug\AuthenticationSettings.dll
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\AuthenticationSettings\bin\Debug\AuthenticationSettings.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\AuthenticationSettings\obj\Debug\AuthenticationSettings.dll
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\AuthenticationSettings\obj\Debug\AuthenticationSettings.pdb

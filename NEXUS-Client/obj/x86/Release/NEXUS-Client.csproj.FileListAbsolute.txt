@@ -1,0 +1,16 @@
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\bin\Release\NEXUS-Client.exe
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\bin\Release\NEXUS-Client.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmClient.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.Properties.Resources.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS-Client.csproj.GenerateResource.Cache
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS-Client.exe
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS-Client.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\bin\Release\AuthenticationSettings.dll
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\bin\Release\AuthenticationSettings.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS-Client.csprojResolveAssemblyReference.cache
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmConnect.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmConnectError.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmAddCase.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmAddMalware.resources
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\bin\Release\MySql.Data.dll
+C:\Users\michael\documents\visual studio 2010\Projects\NEXUS-Client\NEXUS-Client\obj\x86\Release\NEXUS_Client.frmAbout.resources
